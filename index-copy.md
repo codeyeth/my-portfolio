@@ -2,33 +2,19 @@
 layout: default
 ---
 
-# Personal Information
+Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+
+[Vue.js](./another-page.html).
+[React.js](./another-page.html).
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-### Technical Skillset
+# Header 1
 
-*   Vue.js
-*   React.js
-*   Tailwind
-*   Bootstrap
-*   HTML, CSS
-*   PHP - (Native, Laravel)
-*   Java
-*   Javascript
-*   Node.js
-*   
-
-### Sample Projects
-
-[Vue](./another-page.html).
-[React](./another-page.html).
-[PHP Native](./another-page.html).
-[PHP Laravel](./another-page.html).
+This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
 ## Header 2
 
