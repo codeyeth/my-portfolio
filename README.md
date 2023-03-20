@@ -1,2 +1,4 @@
 # my-portfolio
-Royeth M. Rehinaldo Web Dev
+Royeth M. Rehinaldo 
+----- Portfolio
+Theme: Minimal
