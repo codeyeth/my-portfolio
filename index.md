@@ -4,7 +4,9 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+
+[Vue.js](./another-page.html).
+[React.js](./another-page.html).
 
 There should be whitespace between paragraphs.
 
